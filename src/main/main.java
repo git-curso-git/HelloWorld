@@ -5,5 +5,7 @@ public class main {
 
 		System.out.println("Hello World, to everyone");
 		
+		System.out.println("Hola a todos");
+
 	}
 }
